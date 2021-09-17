@@ -1,0 +1,11 @@
+branch一覧表示
+git branch
+
+branch作成
+git branch 'branchname'
+
+branch変更
+git checkout 'branchname'
+
+作業ブランチの現在の状態確認
+git status
