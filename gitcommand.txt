@@ -9,3 +9,6 @@ git checkout 'branchname'
 
 作業ブランチの現在の状態確認
 git status
+
+新規branchをoriginにpushする
+git push --set-upstream origin nakano_gotoku

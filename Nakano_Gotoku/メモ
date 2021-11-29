@@ -1,0 +1,14 @@
+参考にしたサイト
+キータ
+https://qiita.com/kan_dai/items/4331aae12f5f2d3ad18d
+GitHub
+https://github.com/KanDai/simple-qr-reader
+API
+https://developer.mozilla.org/ja/docs/Web/API/MediaDevices/getUserMedia
+
+
+躓いたこと
+・提供されているjsQR.jsをscriptしないと静止画になること
+・javascript .then , .catchの挙動について
+　.thenは「thenメソッド」は、fullfilledステータス、またはrejectedステータスのPromiseオブジェクトを受け取ることができます。
+　resolveされた時にはその成功した結果を受け取り、rejectされた時にはそのエラーを受け取ります。
